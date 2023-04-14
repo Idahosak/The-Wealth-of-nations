@@ -6,3 +6,6 @@ The  bar chat shown GDP per capital in 2003 to 2020  with Monaca  having the hig
 The Map shown  the top 20 country in 2020  of life expectancy  in the world with  Australia having  the highest  life expectancy
 
 [Life expectancy](https://public.tableau.com/shared/RNCSZTRFN?:display_count=n&:origin=viz_share_link)
+
+[The Wealth of nations.xlsx](https://github.com/Idahosak/The-Wealth-of-nations/files/11232097/The.Wealth.of.nations.xlsx)
+
